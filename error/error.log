@@ -1,0 +1,103 @@
+2018-10-11 04.35.33 AM,Insert Query:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kinmel`.`products`, CONSTRAINT `products_ibfk_3` FOREIGN KEY (`brand`) REFERENCES `brand` (`id`) ON DELETE SET NULL ON UPDATE CASCADE)
+2018-10-12 04.04.27 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.14.13 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.18.02 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.19.05 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.21.59 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.28.10 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.29.26 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.30.35 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.31.40 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.32.27 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.38.11 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.38.53 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.41.28 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.41.34 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 01.42.16 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 02.30.57 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 02.31.53 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.06.31 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.06.53 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.07.18 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.07.46 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.08.14 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.09.01 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.10.13 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.11.30 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.11.53 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.12.54 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.13.28 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.14.03 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.31.15 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.31.38 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.31.57 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.32.25 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.55.44 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.56.18 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.56.51 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.57.11 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 03.57.47 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.01.04 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.01.28 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.02.07 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.02.35 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.02.58 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.07.55 PM,Insert Query:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kinmel`.`product_images`, CONSTRAINT `product_images_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+2018-10-16 04.07.55 PM,Insert Query:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kinmel`.`product_images`, CONSTRAINT `product_images_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+2018-10-16 04.07.55 PM,Insert Query:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kinmel`.`product_images`, CONSTRAINT `product_images_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+2018-10-16 04.07.55 PM,Insert Query:SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`kinmel`.`product_images`, CONSTRAINT `product_images_ibfk_1` FOREIGN KEY (`product_id`) REFERENCES `products` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+2018-10-16 04.24.40 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.25.47 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.26.24 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.26.50 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.27.25 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.28.10 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.28.59 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.29.56 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.30.18 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.45.04 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.45.39 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.47.04 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.50.53 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.52.18 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.53.30 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 04.58.06 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-16 05.04.14 PM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 08.15.02 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 08.15.25 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 08.16.13 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 08.17.08 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 08.17.31 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 08.19.48 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 08.22.51 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.46.46 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.47.29 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.52.31 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.54.03 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.55.47 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.56.11 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.57.09 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.58.24 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.58.29 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 10.59.32 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.00.06 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.07.07 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.07.42 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.08.01 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.08.06 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.09.16 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.09.56 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.10.35 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.11.20 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-17 11.16.54 AM, Update Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-19 06.56.14 AM, Connection Setup SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2018-10-20 08.29.09 AM,Select Query:SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2018-10-20 08.34.18 AM,Select Query:SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2018-10-20 08.35.40 AM,Select Query:SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2018-10-20 08.36.00 AM,Select Query:SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2018-10-20 04.35.20 PM,Select Query:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'products.added' in 'field list'
+2018-10-20 04.36.04 PM,Select Query:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'products.added' in 'field list'
+2018-10-20 04.40.05 PM,Select Query:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'products.added' in 'field list'
+2018-10-21 09.33.43 AM,Select Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2018-10-21 09.35.01 AM,Select Query:SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens

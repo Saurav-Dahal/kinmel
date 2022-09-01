@@ -1,0 +1,16 @@
+Options -Indexes
+
+Options +MultiViews
+DefaultType application/x-httd-php
+
+#RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}\.php -f
+#RewriteRule ^{.*}$ $1.php [NC,L]
+
+#RewriteCond %{REQUEST_FILENAME}\.html -f
+#RewriteRule ^{.*}$ $1.html [NC,L]
+
+ErrorDocument 403 'Permission Denied'
+
+#ErrorDocument 403 'http://kinmel.com/403.html'
